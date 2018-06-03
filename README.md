@@ -106,7 +106,7 @@ Looking at the console, you should see the updated logging.
 
 ```
 The header is: Adele Goldberg
-The first link text is: ENTER LINK TEXT CODE HERE
+The first link text is: 
 The first link href is: ENTER LINK HREF CODE HERE
 ```
 
